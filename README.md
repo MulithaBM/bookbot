@@ -1,3 +1,3 @@
-# bookbot
+# BookBot
 
-Bookbot
+BookBot
